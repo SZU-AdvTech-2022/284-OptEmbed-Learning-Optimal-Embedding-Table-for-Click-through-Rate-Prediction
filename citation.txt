@@ -1,6 +1,6 @@
-@inproceedings{REPO-285,
+@inproceedings{REPO-284,
     author = "Lyu, Fuyuan and Tang, Xing and Zhu, Hong and Guo, Huifeng and Zhang, Yingxue and Tang, Ruiming and Liu, Xue",
-    booktitle = "Proceedings of the 31st ACM International Conference on Information \\& Knowledge Management",
+    booktitle = "Proceedings of the 31st ACM International Conference on Information \\\\& Knowledge Management",
     pages = "1399--1409",
     title = "{OptEmbed: Learning Optimal Embedding Table for Click-through Rate Prediction}",
     year = "2022"
